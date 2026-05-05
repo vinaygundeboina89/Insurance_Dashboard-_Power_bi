@@ -218,7 +218,8 @@ Please open an issue or submit a pull request.
 
 
 
-<img width="578" height="322" alt="image" src="https://github.com/user-attachments/assets/437d4c00-7e93-4e9f-adfc-193e9fb28928" />
+<img width="959" height="497" alt="image" src="https://github.com/user-attachments/assets/4b689ea2-effd-4c4c-9838-8ba954769601" />
+
 
 
 - **Mendeley Data** for hosting the dataset under open access terms
