@@ -208,6 +208,12 @@ Please open an issue or submit a pull request.
 
 - **Edossa Terefe** (Hawassa University) for publishing the dataset
 - **Ethiopian Insurance Corporation** — the source of the underlying records
+
+
+
+
+<img width="732" height="495" alt="image" src="https://github.com/user-attachments/assets/dd49630e-1717-41de-a9ec-80c3a3de487d" />
+
 - **Mendeley Data** for hosting the dataset under open access terms
 
 ---
